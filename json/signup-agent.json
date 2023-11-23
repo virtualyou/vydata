@@ -1,0 +1,7 @@
+{
+    "username": "agent",
+    "password": "abc123",
+    "email": "agent@yahoo.com",
+    "ownerId": 0,
+    "roles": ["agent"] 
+}

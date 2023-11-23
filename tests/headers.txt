@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Access-Control-Allow-Origin: undefined
+Access-Control-Allow-Headers: Origin, Content-Type, Accept
+Access-Control-Allow-Credentials: true
+Content-Type: application/json; charset=utf-8
+Content-Length: 307
+ETag: W/"133-gzMIq+iwUHKPNMZwb/V9/KMwcoM"
+Set-Cookie: virtualyou-session=eyJ0b2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNk55d2liM2R1WlhJaU9qQXNJbWxoZENJNk1UY3dNRGN4TXpVMk9Dd2laWGh3SWpveE56QXdOems1T1RZNGZRLl9HdHFrTzJ0Rkd5TWJ4Q253cGp5VUhCdHdaaEo5SGkyak16VmJiaWI1U1UifQ==; path=/; samesite=strict; httponly
+Set-Cookie: virtualyou-session.sig=KEqppUj6BIYj2IY7SBdREArlIqg; path=/; samesite=strict; httponly
+Date: Thu, 23 Nov 2023 04:26:08 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+

@@ -1,0 +1,7 @@
+{
+    "username": "owner",
+    "password": "abc123",
+    "email": "owner@yahoo.com",
+    "ownerId": 0,
+    "roles": ["owner"] 
+}
